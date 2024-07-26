@@ -32,6 +32,8 @@ const config = {
           100: "#000319",
           200: "rgba(17, 25, 40, 0.75)",
           300: "rgba(255, 255, 255, 0.125)",
+          400: "#141414",
+          500: "#0A0A0A",
         },
         white: {
           DEFAULT: "#FFF",
@@ -40,6 +42,7 @@ const config = {
         },
         blue: {
           "100": "#E4ECFF",
+          200: "#446DF6",
         },
         purple: "#CBACF9",
         border: "hsl(var(--border))",
