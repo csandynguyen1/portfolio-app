@@ -25,7 +25,7 @@ export const Primary = () => {
 
             <TextGenerateEffect 
             className="text-center text-[40px] md:text-5xl lg:text-6xl"
-            words="In Devlopment"
+            words="Currently Updating"
             />
           </div>
         </div>
