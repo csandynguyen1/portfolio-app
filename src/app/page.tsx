@@ -10,7 +10,7 @@ export default function Home() {
         transition={{ duration: 1.2 }}
         className="w-full"
       >
-        <div className="text-2xl font-bold mb-75 mt-75 text-center transition-all duration-300">
+        <div className="text-2xl font-bold mb-78 mt-78 text-center transition-all duration-25">
           <h1>Welcome! </h1>
         </div>
       </motion.div>
