@@ -3,7 +3,6 @@
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { motion } from 'framer-motion';
-import { useTheme } from 'next-themes';
 import { ThemeToggle } from './themetoggle';
 
 const navItems = [
