@@ -9,7 +9,7 @@ import {
 
 export default function Footer() {
   return (
-    <footer className="dark:bg-black bg-white text-center text-sm text-gray-500 dark:text-gray-400 flex flex-col items-center space-y-2 transition-all duration-300">
+    <footer className="dark:bg-black bg-white text-center text-sm text-gray-500 dark:text-gray-400 flex flex-col items-center space-y-2 transition-all duration-300 mt-7">
       <div className="flex space-x-6">
         <a href="https://github.com/csandynguyen1" target="_blank" rel="noopener noreferrer">
           <FaGithub className="h-5 w-5 hover:text-black dark:hover:text-white transition" />

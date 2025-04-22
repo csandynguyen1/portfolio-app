@@ -1,19 +1,20 @@
 'use client';
 import { motion } from 'framer-motion';
+import { ArrowUpLeft } from 'lucide-react';
 
 export default function Home() {
   return (
-    <div className="min-h-auto flex flex-col items-center justify-center bg-white dark:bg-black text-black dark:text-white transition-all duration-300">
-      <motion.div
-        initial={{ opacity: 0, x: -20 }}
-        animate={{ opacity: 1, x: 0 }}
-        transition={{ duration: 1.2 }}
-        className="w-full"
-      >
-        <div className="text-2xl font-bold mb-78 mt-78 text-center transition-all duration-25">
-          <h1>Welcome! </h1>
-        </div>
-      </motion.div>
-    </div>
+    <main className="flex flex-col min-h-screen bg-white dark:bg-black text-black dark:text-white transition-all duration-300">
+      <div className="flex-grow flex flex-col items-center justify-center relative">
+        <motion.div
+          initial={{ opacity: 0, y: -20 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 1.2 }}
+          className="text-center"
+        >
+          <h1 className="text-4xl font-bold">Hey, my name is Andy!</h1>
+        </motion.div>
+      </div>
+    </main>
   );
 }
