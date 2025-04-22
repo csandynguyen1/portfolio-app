@@ -1,6 +1,5 @@
 'use client';
 import { motion } from 'framer-motion';
-import { ArrowUpLeft } from 'lucide-react';
 
 export default function Home() {
   return (
