@@ -11,7 +11,7 @@ const timelineItems = [
   },
   {
     title: 'CompositionToday',
-    role: 'Full Stack Developer',
+    role: 'Software Engineer',
     date: '2024 - 2025',
     desc: 'Worked with a team to build a resource hub for music composers.',
   },
