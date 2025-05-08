@@ -46,7 +46,7 @@ export function Greeting() {
           I am a recent graduate from the University of Central Florida with a B.S. in Computer
           Science. I have always been interested in taking ideas and building them into reality.
           Looking to make an impact in the world and build products that people can use. If you want
-          to get in touch, don't hesitate to reach out! Links below.
+          to get in touch, don&apos;t hesitate to reach out! Links below.
         </p>
         <Button
           variant="outline"
