@@ -19,7 +19,7 @@ const projectItems = [
     title: 'Astral Explorer',
     desc: '2-D Top-Down roguelike game, filled with puzzle, monsters, and bosses main objective is to complete all planets!',
     tags: ['Unity', 'C#'],
-    link: 'https://github.com/csandynguyen1/AE01',
+    link: 'https://csandynguyen.itch.io/astral-explorer',
   },
   {
     title: 'Personal Website',
