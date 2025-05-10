@@ -18,7 +18,7 @@ const timelineItems = [
   {
     title: 'Project A',
     role: 'Game Developer',
-    date: '2023 - 2024',
+    date: '2023 - 2025',
     desc: 'Built random games for fun on the side.',
   },
 ];
